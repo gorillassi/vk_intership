@@ -1,6 +1,5 @@
 # Graph BFS (VK Internship Task)
 
-## Как запустить
 
 ### 1. Компиляция через `Makefile`
 ```sh
